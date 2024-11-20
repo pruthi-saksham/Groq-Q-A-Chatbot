@@ -1,5 +1,6 @@
 
-# Groq Q/A Chatbot
+# Groq-Q-A-Chatbot
+
 
 This project is a user-friendly and interactive chatbot built using Streamlit, LangChain, Groq, and OpenAI APIs. The chatbot is designed to provide intelligent and accurate answers to user queries, leveraging cutting-edge Large Language Models (LLMs). Users can customize the chatbot’s behavior using parameters like temperature and token limit, and they can choose from multiple advanced LLMs available.
 
